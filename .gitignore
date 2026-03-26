@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.cursor/
+backups/
+submission/
+.env
+checkpoints/*.pth
+checkpoints/*.pt
+*.xlsx
+.DS_Store
